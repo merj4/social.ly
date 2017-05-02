@@ -1,0 +1,28 @@
+{
+  "name": "social.ly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "node": "0.0.0",
+    "pg": "^6.1.5",
+    "react": "^15.5.4",
+    "sequelize": "^3.30.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r0chellevee/social.ly.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/r0chellevee/social.ly/issues"
+  },
+  "homepage": "https://github.com/r0chellevee/social.ly#readme"
+}
