@@ -10,10 +10,9 @@
     "react": "^15.5.4"
   },
   "devDependencies": {},
-  // "scripts": {
-  //   "test": "mocha",
-  //   "start": "node server.js"
-  // },
+  "scripts": {
+    "start": "node server.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/r0chellevee/social.ly.git"
